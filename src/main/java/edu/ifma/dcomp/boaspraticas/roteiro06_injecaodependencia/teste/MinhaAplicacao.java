@@ -2,7 +2,6 @@ package edu.ifma.dcomp.boaspraticas.roteiro06_injecaodependencia.teste;
 
 import edu.ifma.dcomp.boaspraticas.roteiro06_injecaodependencia.modelo.*;
 import edu.ifma.dcomp.boaspraticas.roteiro06_injecaodependencia.repositorio.ArquivoDeDividas;
-import edu.ifma.dcomp.roteiro06_injecaodependencia.modelo.*;
 import edu.ifma.dcomp.boaspraticas.roteiro06_injecaodependencia.repositorio.RepositorioDeDivida;
 
 public class MinhaAplicacao {
